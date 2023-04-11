@@ -9,7 +9,7 @@ Our project uses [the Movie Database APIs](https://developers.themoviedb.org/3/g
 |1| [`data_extraction.ipynb`](data_extraction.ipynb) | Data Extraction |
 |2| [`data_cleaning_and_EDA.ipynb`](data_cleaning_and_EDA.ipynb) | Data Visualisation and Exploratory Data Analysis |
 |3| [`kmeansclustering.ipynb`](kmeansclustering.ipynb) and [`kmodesclustering.ipynb`](kmodesclustering.ipynb) | Machine Learning using KMeans and KModes |
-|4| [`recommendations.ipynb`](recommmendations.ipynb) | Recommendation System for Similar Movies |
+|4| [`recommendations.ipynb`](recommendations.ipynb) | Recommendation System for Similar Movies |
 
 ## Contributors
 * @jewjux - Data Extraction, KModes Clustering
