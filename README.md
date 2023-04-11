@@ -5,7 +5,7 @@
 Our project uses [the Movie Database APIs](https://developers.themoviedb.org/3/getting-started) dataset sample. We studied the dataset and were able to identify trends and conclusions from the EDA and clustering. This led us to develop a mini recommendation tool which recommended similar movies from an input movie based on the trends identified. The following details the purpose of each script in this project.
 
 | Workflow | File | Description |
-| ---- |---|
+| ---- |---| ---|
 |1| [`data_extraction.ipynb`](data_extraction.ipynb) | Data Extraction |
 |2| [`data_cleaning_and_EDA.ipynb`](data_cleaning_and_EDA.ipynb) | Data Visualisation and Exploratory Data Analysis |
 |3| [`kmeansclustering.ipynb`](kmeansclustering.ipynb) and [`kmodesclustering.ipynb`](kmodesclustering.ipynb) | Machine Learning using KMeans and KModes |
