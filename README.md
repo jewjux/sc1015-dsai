@@ -1,4 +1,4 @@
-# Welcome to our SC1015 DSAI Project
+# SC1015 DSAI Project
 
 ## About
 
