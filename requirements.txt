@@ -5,3 +5,4 @@ tdqm
 plotnine
 kmodes
 seaborn
+squarify
