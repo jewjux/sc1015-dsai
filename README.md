@@ -7,10 +7,10 @@ Our project uses [the Movie Database APIs](https://developers.themoviedb.org/3/g
 ## Scripts
 | Workflow | File | Description |
 | --- | --- | --- |
-|1| [`data_extraction.ipynb`](data_extraction.ipynb) | Data Extraction |
-|2| [`data_cleaning_and_EDA.ipynb`](data_cleaning_and_EDA.ipynb) | Data Visualisation and Exploratory Data Analysis |
-|3| [`kmeansclustering.ipynb`](kmeansclustering.ipynb) & [`kmodesclustering.ipynb`](kmodesclustering.ipynb) | Machine Learning using KMeans and KModes |
-|4| [`recommendations.ipynb`](recommendations.ipynb) | Recommendation System for Similar Movies |
+|1| [`data_extraction.ipynb`](data_extraction.ipynb) | Data extraction |
+|2| [`data_cleaning_and_EDA.ipynb`](data_cleaning_and_EDA.ipynb) | Data visualisation and exploratory data analysis |
+|3| [`kmeansclustering.ipynb`](kmeansclustering.ipynb) & [`kmodesclustering.ipynb`](kmodesclustering.ipynb) | Machine learning using KMeans and KModes |
+|4| [`recommendations.ipynb`](recommendations.ipynb) | Recommendation System to generate similar movies |
 
 ## Assets
 | File | Source | Description |
