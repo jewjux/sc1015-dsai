@@ -20,6 +20,12 @@ Our project uses [the Movie Database APIs](https://developers.themoviedb.org/3/g
 | [`data/kmodes_cluster.csv`](data/kmodes_cluster.csv) | Local | Dataframe of the clustered movies using Kmodes |
 | [`data/kmeans_cluster.csv`](data/kmeans_cluster.csv) | Local | Dataframe of the clustered movies using Kmeans |
 
+## What did we learn?
+
+* Using API for data extraction
+* Using Treemap as a way of visualising data
+* K means and k modes clustering algorithms
+
 ## Contributors
 * @jewjux - Data Extraction, KModes Clustering
 * @CelesteAng1812 - Data Cleaning and EDA, Recommendations
